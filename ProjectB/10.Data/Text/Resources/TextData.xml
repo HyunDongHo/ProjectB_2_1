@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTextData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TextData ID="NoName" kor="NoName" eng="NoName" />
+  <TextData ID="ConfirmButtonText" kor="확인" eng="OK" />
+  <TextData ID="CancleButtonText" kor="취소" eng="CANCLE" />
+  <TextData ID="StartButtonText" kor="시작하기" eng="START" />
+  <TextData ID="AllAgreeText" kor="모두 동의하기" eng="Agree on All" />
+  <TextData ID="AccessTitleText" kor="권한 설정" eng="AccessTitleText" />
+  <TextData ID="AccessDetailText1" kor="[필수] 기기, 사진, 미디어, 파일 엑세스" eng="AccessDetailText1" />
+  <TextData ID="AccessDetailText2" kor="고객님 사진과 파일에는 접근하지 않습니다.&#10;이 권한은 게임을 설치하기 위해 필요합니다.&#10;권한을 허용하면 외장 메모리에 게임을 설치할 수 있습니다.&#10;필수 권한을 거부하는 경우 게임 설치가 진행되지 않습니다." eng="AccessDetailText2" />
+  <TextData ID="DownTitleText" kor="알 림" eng="" />
+  <TextData ID="DownDetailText1" kor="추가 리소스를 다운로드합니다.&#10;업데이트를 진행하시겠습니까?" eng="" />
+  <TextData ID="DownDetailText2" kor="Wi-Fi에 연결되어 있지 않으면 데이터 사용료가 부과될 수 있습니다." eng="" />
+  <TextData ID="TermsTitleText" kor="약관 동의" eng="" />
+  <TextData ID="TermsDetailText1" kor="[필수] 서비스 이용 약관 동의" eng="" />
+  <TextData ID="TermsDetailButtonText" kor="내용 보기" eng="" />
+  <TextData ID="TermsDetailText2" kor="[필수] 개인정보 수집 및 이용 동의" eng="" />
+  <TextData ID="TermsDetailText3" kor="[선택] 광고성 정보 수신 동의" eng="" />
+  <TextData ID="TermsDetailText4" kor="[선택] 야간(오후9시 ~ 오전8시) 알람 수신 동의" eng="" />
+  <TextData ID="NicknameTitleText" kor="캐릭터 이름 생성" eng="" />
+  <TextData ID="NickPHText" kor="이름을 입력하세요." eng="" />
+  <TextData ID="HaveEqualBuff" kor="같은 속성의 버프가 이미 적용중이므로 사용되지 않습니다." eng="" />
+  <TextData ID="AlreadyBuyItem" kor="이미 구매한 아이템입니다." eng="" />
+  <TextData ID="NotNormalItem" kor="아이템 정보가 비정상적입니다." eng="" />
+  <TextData ID="NotEnoughItem" kor="구매에 필요한 재화가 부족합니다.&#10;상점으로 이동하시겠습니까?" eng="" />
+</ArrayOfTextData>

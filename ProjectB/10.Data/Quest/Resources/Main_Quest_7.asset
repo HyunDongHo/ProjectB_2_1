@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af7bfb7da97d074ca30cacaa479b174, type: 3}
+  m_Name: Main_Quest_7
+  m_EditorClassIdentifier: 
+  questName: Main_Quest_7
+  saveData:
+    progressValues: []
+    state: 0
+  questTextData:
+    title: 
+    startQuestDialogueJson: 
+    endQuestDialogueJson: 
+  questSubject: 0
+  progressLocation: Lobby
+  nextQuestName: Main_Quest_8
+  rewardDataSettings:
+  - rewardItemData: {fileID: 11400000, guid: 9f88a7c5848ea0749b1bc1658bd1ce93, type: 2}
+    minAmount:
+      currentCryptoKey: 1059713204
+      hiddenValue: 1059701372
+      inited: 1
+      fakeValue: 13000
+      fakeValueActive: 1
+    maxAmount:
+      currentCryptoKey: 1483469112
+      hiddenValue: 1483457520
+      inited: 1
+      fakeValue: 13000
+      fakeValueActive: 1
+  - rewardItemData: {fileID: 11400000, guid: 970a38359892fd34b8b1d373ad9d0399, type: 2}
+    minAmount:
+      currentCryptoKey: 1628371375
+      hiddenValue: 1628370447
+      inited: 1
+      fakeValue: 4000
+      fakeValueActive: 1
+    maxAmount:
+      currentCryptoKey: 1260260303
+      hiddenValue: 1260258415
+      inited: 1
+      fakeValue: 4000
+      fakeValueActive: 1
+  - rewardItemData: {fileID: 11400000, guid: 719a9904185e08644bb5b248d67e3249, type: 2}
+    minAmount:
+      currentCryptoKey: 1432966794
+      hiddenValue: 1432966795
+      inited: 1
+      fakeValue: 1
+      fakeValueActive: 1
+    maxAmount:
+      currentCryptoKey: 1904294544
+      hiddenValue: 1904294545
+      inited: 1
+      fakeValue: 1
+      fakeValueActive: 1

@@ -1,0 +1,24 @@
+﻿ID,kor,eng
+NoName,NoName,
+ConfirmText,확인,
+CancleText,취소,
+StartButtonText,시작하기,
+AllAgreeText,모두 동의하기,
+AccessTitleText,권한 설정,
+AccessDetailText,"[필수] 기기, 사진, 미디어, 파일 엑세스",
+AccessDetailText2,"고객님 사진과 파일에는 접근하지 않습니다.
+이 권한은 게임을 설치하기 위해 필요합니다.
+권한을 허용하면 외장 메모리에 게임을 설치할 수 있습니다.
+필수 권한을 거부하는 경우 게임 설치가 진행되지 않습니다.",
+DownTitle,알 림,
+DownDetail,"추가 리소스를 다운로드합니다.
+업데이트를 진행하시겠습니까?",
+DownDetail2,Wi-Fi에 연결되어 있지 않으면 데이터 사용료가 부과될 수 있습니다.,
+TermsTitle,약관 동의,
+TermsDetail1,[필수] 서비스 이용 약관 동의,
+TermsDetailButtonText,내용 보기,
+TermsDetail2,[필수] 개인정보 수집 및 이용 동의,
+TermsDetail3,[선택] 광고성 정보 수신 동의,
+TermsDetail4,[선택] 야간(오후9시 ~ 오전8시) 알람 수신 동의,
+NicknameTitle,캐릭터 이름 생성,
+NicknamePlaceHolder,이름을 입력하세요.,

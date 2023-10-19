@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a0faf2d8d844d4f9b7c350f7b014ed, type: 3}
+  m_Name: Enemy_ST03_V01_AbilityInfo
+  m_EditorClassIdentifier: 
+  maxHp: 190
+  maxExp: 23
+  damageRatio: 1
+  attackSpeedRatio: 1
+  criticalRatio: 1.5
+  criticalPercentage: 10
+  dodgePercentage: 5
+  attackMinDamage: 19
+  attackMaxDamage: 20
+  rewardMin: 1
+  rewardMax: 2
+  expAmount: 23
+  goldAmount: 230

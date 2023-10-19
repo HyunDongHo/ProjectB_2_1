@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: M_A_WindRide02
+  m_Shader: {fileID: 4800000, guid: 615f57d956feb1741846a7c9ca56706d, type: 3}
+  m_ShaderKeywords: _USEDETAILSHADOW_ON _USEMAINTEXROTATION_ON _USEMAINTEXSCROLL_ON
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 43d51c327b10f0a418dfc3db58f14cf6, type: 3}
+          m_Scale: {x: 1.5, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SubTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BaseTexture
+        second:
+          m_Texture: {fileID: 2800000, guid: 0a4a12084533b3345930d2f09b41de58, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Base_Tex
+        second:
+          m_Texture: {fileID: 2800000, guid: 0a4a12084533b3345930d2f09b41de58, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Second_Tex
+        second:
+          m_Texture: {fileID: 2800000, guid: e9c9700b0816dbd4889fa4e425345c57, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _Cutoff
+        second: 0.5
+      data:
+        first:
+          name: _Parallax
+        second: 0.02
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: 0.5
+      data:
+        first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 0
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _MainTexIntensity
+        second: 1.5
+      data:
+        first:
+          name: _UseMainTexRotation
+        second: 1
+      data:
+        first:
+          name: _UseSoftOpacity
+        second: 0
+      data:
+        first:
+          name: _OpacitybyHeight
+        second: -1.7
+      data:
+        first:
+          name: _SubTexIntensity
+        second: 1.5
+      data:
+        first:
+          name: _UseAlphaChannel
+        second: 0
+      data:
+        first:
+          name: _AlphaChannelIntensity
+        second: 1
+      data:
+        first:
+          name: _ScrollSpeedbyAlpha
+        second: 0
+      data:
+        first:
+          name: _ScrollVector0U1V
+        second: 1
+      data:
+        first:
+          name: _MainTexRotationValue
+        second: 0
+      data:
+        first:
+          name: _UseMainTexScroll
+        second: 1
+      data:
+        first:
+          name: _TextureRotation
+        second: 1
+      data:
+        first:
+          name: _OutlineColor
+        second: 0.2
+      data:
+        first:
+          name: _OutlineWidth
+        second: 0.02
+      data:
+        first:
+          name: _OpacityClip
+        second: 0.1
+      data:
+        first:
+          name: _ShadowSmooth
+        second: 0
+      data:
+        first:
+          name: _ShadowThreshold
+        second: 0.56
+      data:
+        first:
+          name: _ShadowIntensity
+        second: 1
+      data:
+        first:
+          name: _ShadowHeight
+        second: 0
+      data:
+        first:
+          name: _OpacityAffectValue
+        second: 1
+      data:
+        first:
+          name: _UseDetailShadow
+        second: 1
+      data:
+        first:
+          name: _DetailShadowIntensity
+        second: 0.8
+      data:
+        first:
+          name: _DetailShadowRotation
+        second: -0.4
+      data:
+        first:
+          name: _ShadowRotation
+        second: 0
+      data:
+        first:
+          name: _Base_Val
+        second: 0.8
+      data:
+        first:
+          name: _Second_Val
+        second: 1
+      data:
+        first:
+          name: _Smooth
+        second: 0
+      data:
+        first:
+          name: _Threshold
+        second: 0.53
+      data:
+        first:
+          name: _Shadow
+        second: 0.8
+      data:
+        first:
+          name: _Height
+        second: 0
+      data:
+        first:
+          name: _Rot
+        second: 0.24
+      data:
+        first:
+          name: _Shadow_Rot
+        second: 0.76
+      data:
+        first:
+          name: _Tex_Rot
+        second: 0
+      data:
+        first:
+          name: _StartCutoffValue
+        second: 0.1
+      data:
+        first:
+          name: _UseMainTexAlphaChannel
+        second: 0
+      data:
+        first:
+          name: _UseOutLine
+        second: 0
+      data:
+        first:
+          name: _OutLineWidth
+        second: 0.05
+      data:
+        first:
+          name: _UseSubTexIntepolatebyAlpha
+        second: 0
+      data:
+        first:
+          name: _UseSubTexAlphaChannel
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _OutLineColor
+        second: {r: 0.5, g: 0.5, b: 0.5, a: 1}

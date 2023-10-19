@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced539de500f4174884d6f79db5a74ec, type: 3}
+  m_Name: Enemy_ST04_Attack_02
+  m_EditorClassIdentifier: 
+  clip: {fileID: 7400000, guid: 8784f010328ed7142817591c792dbf48, type: 2}
+  paramterRef: {fileID: 11400000, guid: 06ae3325601094e4b8eed3dfb4def1bc, type: 2}
+  attackEvents:
+  - eventName: "\uBC1C\uC0AC\uCCB4 \uACF5\uACA9"
+    isOpen: 1
+    eventFrameSettings:
+    - isShowMinMaxFrame: 0
+      minFrame: 42
+      maxFrame: 42
+      eventMethods:
+      - selectedIndex: 3
+        callMethod: ShootProjectileLeft
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 46
+      maxFrame: 46
+      eventMethods:
+      - selectedIndex: 3
+        callMethod: ShootProjectileLeft
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 50
+      maxFrame: 50
+      eventMethods:
+      - selectedIndex: 3
+        callMethod: ShootProjectileLeft
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 17
+      maxFrame: 17
+      eventMethods:
+      - selectedIndex: 3
+        callMethod: ShootProjectileRight
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 21
+      maxFrame: 21
+      eventMethods:
+      - selectedIndex: 3
+        callMethod: ShootProjectileRight
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 42
+      maxFrame: 42
+      eventMethods:
+      - selectedIndex: 3
+        callMethod: ShootProjectileRight
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 46
+      maxFrame: 46
+      eventMethods:
+      - selectedIndex: 3
+        callMethod: ShootProjectileRight
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 50
+      maxFrame: 50
+      eventMethods:
+      - selectedIndex: 3
+        callMethod: ShootProjectileRight
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+  - eventName: "\uB17C\uC2A4\uD0D1"
+    isOpen: 0
+    eventFrameSettings:
+    - isShowMinMaxFrame: 1
+      minFrame: 0
+      maxFrame: 9
+      eventMethods:
+      - selectedIndex: 2
+        callMethod: SetNonstopAttack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 1
+      minFrame: 10
+      maxFrame: 58
+      eventMethods:
+      - selectedIndex: 2
+        callMethod: SetNonstopAttack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 1
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 1
+      minFrame: 59
+      maxFrame: 62
+      eventMethods:
+      - selectedIndex: 2
+        callMethod: SetNonstopAttack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 

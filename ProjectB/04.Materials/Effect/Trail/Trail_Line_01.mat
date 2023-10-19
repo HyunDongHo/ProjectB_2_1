@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Trail_Line_01
+  m_Shader: {fileID: 4800000, guid: 83e9305cf0ac8b848850de688cd0db6f, type: 3}
+  m_ShaderKeywords: _USEMAINTEXROTATION_ON _USEOUTLINE_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseTexture:
+        m_Texture: {fileID: 2800000, guid: 3cbf8698429675642882b5b25dc2feae, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Base_Tex:
+        m_Texture: {fileID: 2800000, guid: abd8331c5bb774e4883ae00d86e0a18f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 3cbf8698429675642882b5b25dc2feae, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubAlpha:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaBlendHeight: 0
+    - _AlphaChannelIntensity: 1
+    - _BaseTextureIntensity: 2
+    - _BlendHeight: 0
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DetailShadowIntensity: 0.8
+    - _DetailShadowRotation: 0
+    - _DisableAlphaBlend: 1
+    - _DisableAlphaBlendMesh: 0
+    - _DstBlend: 0
+    - _Glossiness: 0.5
+    - _LengthScale: 0.5
+    - _MainTexIntensity: 2
+    - _MainTexRotationValue: -0.388
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OpacityAffectValue: 1
+    - _OpacityClip: 0.1
+    - _OpacitybyHeight: -1.7
+    - _OutLineWidth: 0.04
+    - _OutlineColor: 0.3
+    - _OutlineWidth: 0.04
+    - _Parallax: 0.02
+    - _RadialScale: 2
+    - _ScrollSpeedbyAlpha: 0
+    - _ScrollVector0U1V: 1
+    - _ShadowHeight: -1.7
+    - _ShadowIntensity: 0.695
+    - _ShadowSmooth: 0
+    - _ShadowThreshold: 0.6
+    - _Speed: 0.5
+    - _SrcBlend: 1
+    - _StartCutoffValue: 0.196
+    - _SubTexIntensity: 1
+    - _TextureRotation: 1
+    - _Texture_Rotation: 1
+    - _UVSec: 0
+    - _UseAlphaChannel: 0
+    - _UseDetailShadow: 0
+    - _UseMainAlphaTex: 0
+    - _UseMainTexAlphaChannel: 0
+    - _UseMainTexRotation: 1
+    - _UseOutLine: 1
+    - _UseSoftOpacity: 0
+    - _UseSubAlphaTex: 0
+    - _UseSubTexAlphaChannel: 0
+    - _UseSubTexIntepolatebyAlpha: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OutLineColor: {r: 0.53676474, g: 0.53676474, b: 0.53676474, a: 0}
+    - _OutlineColor: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}

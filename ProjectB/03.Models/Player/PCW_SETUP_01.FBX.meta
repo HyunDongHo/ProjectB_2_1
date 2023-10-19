@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 6bbce72eca0968f47b6b76d5c6b67f5b
+timeCreated: 1561825691
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 HeadNub
+    100006: Bip01 L Calf
+    100008: Bip01 L Clavicle
+    100010: Bip01 L Finger0
+    100012: Bip01 L Finger01
+    100014: Bip01 L Finger02
+    100016: Bip01 L Finger0Nub
+    100018: Bip01 L Finger1
+    100020: Bip01 L Finger11
+    100022: Bip01 L Finger12
+    100024: Bip01 L Finger1Nub
+    100026: Bip01 L Finger2
+    100028: Bip01 L Finger21
+    100030: Bip01 L Finger22
+    100032: Bip01 L Finger2Nub
+    100034: Bip01 L Finger3
+    100036: Bip01 L Finger31
+    100038: Bip01 L Finger32
+    100040: Bip01 L Finger3Nub
+    100042: Bip01 L Finger4
+    100044: Bip01 L Finger41
+    100046: Bip01 L Finger42
+    100048: Bip01 L Finger4Nub
+    100050: Bip01 L Foot
+    100052: Bip01 L Forearm
+    100054: Bip01 L ForeTwist
+    100056: Bip01 L ForeTwist1
+    100058: Bip01 L Hand
+    100060: Bip01 L Thigh
+    100062: Bip01 L Toe0
+    100064: Bip01 L Toe0Nub
+    100066: Bip01 L UpperArm
+    100068: Bip01 Neck
+    100070: Bip01 Pelvis
+    100072: Bip01 R Calf
+    100074: Bip01 R Clavicle
+    100076: Bip01 R Finger0
+    100078: Bip01 R Finger01
+    100080: Bip01 R Finger02
+    100082: Bip01 R Finger0Nub
+    100084: Bip01 R Finger1
+    100086: Bip01 R Finger11
+    100088: Bip01 R Finger12
+    100090: Bip01 R Finger1Nub
+    100092: Bip01 R Finger2
+    100094: Bip01 R Finger21
+    100096: Bip01 R Finger22
+    100098: Bip01 R Finger2Nub
+    100100: Bip01 R Finger3
+    100102: Bip01 R Finger31
+    100104: Bip01 R Finger32
+    100106: Bip01 R Finger3Nub
+    100108: Bip01 R Finger4
+    100110: Bip01 R Finger41
+    100112: Bip01 R Finger42
+    100114: Bip01 R Finger4Nub
+    100116: Bip01 R Foot
+    100118: Bip01 R Forearm
+    100120: Bip01 R ForeTwist
+    100122: Bip01 R ForeTwist1
+    100124: Bip01 R Hand
+    100126: Bip01 R Thigh
+    100128: Bip01 R Toe0
+    100130: Bip01 R Toe0Nub
+    100132: Bip01 R UpperArm
+    100134: Bip01 Spine
+    100136: Bip01 Spine1
+    100138: Bip01 Spine2
+    100140: Bone001
+    100142: Bone002
+    100144: Bone005
+    100146: Bone006
+    100148: Bone_AC_L1
+    100150: Bone_AC_L2
+    100152: Bone_AC_L3
+    100154: Bone_AC_L4
+    100156: Bone_AC_L5
+    100158: Bone_AC_L6
+    100160: Bone_AC_R1
+    100162: Bone_AC_R2
+    100164: Bone_AC_R3
+    100166: Bone_AC_R4
+    100168: Bone_AC_R5
+    100170: Bone_AC_R6
+    100172: Bone_C_L1
+    100174: Bone_C_L2
+    100176: Bone_C_L3
+    100178: Bone_C_L4
+    100180: Bone_C_L5
+    100182: Bone_C_L6
+    100184: Bone_C_R1
+    100186: Bone_C_R2
+    100188: Bone_C_R3
+    100190: Bone_C_R4
+    100192: Bone_C_R5
+    100194: Bone_C_R6
+    100196: Bone_hair_L1
+    100198: Bone_hair_L2
+    100200: Bone_hair_L3
+    100202: Bone_hair_L4
+    100204: Bone_hair_L5
+    100206: Bone_hair_L6
+    100208: Bone_hair_R1
+    100210: Bone_hair_R2
+    100212: Bone_hair_R3
+    100214: Bone_hair_R4
+    100216: Bone_hair_R5
+    100218: Bone_hair_R6
+    100220: Bone_kal
+    100222: Bone_kal2
+    100224: Bone_kalzip
+    100226: Bone_mouth_C
+    100228: Bone_mouth_L
+    100230: Bone_mouth_R
+    100232: Particle View 01
+    100234: Particle View 02
+    100236: Particle View 02 1
+    100238: Particle View 03
+    100240: Particle View 04
+    100242: Particle View 05
+    100244: Particle View 06
+    100246: PCW_Back_Booster_01
+    100248: PCW_Cord_01
+    100250: PCW_Eyes_01
+    100252: PCW_Hair_01
+    100254: PCW_Nude_Body_01
+    100256: PCW_Prop_01
+    100258: //RootNode
+    100260: PCW_Sheath_01
+    100262: PCW_Shoes_01
+    100264: PCW_Skirt_01
+    100266: PCW_Up_Cloth_01
+    100268: Root
+    100270: zip_01
+    100272: zip_02
+    100274: zip_03
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 HeadNub
+    400006: Bip01 L Calf
+    400008: Bip01 L Clavicle
+    400010: Bip01 L Finger0
+    400012: Bip01 L Finger01
+    400014: Bip01 L Finger02
+    400016: Bip01 L Finger0Nub
+    400018: Bip01 L Finger1
+    400020: Bip01 L Finger11
+    400022: Bip01 L Finger12
+    400024: Bip01 L Finger1Nub
+    400026: Bip01 L Finger2
+    400028: Bip01 L Finger21
+    400030: Bip01 L Finger22
+    400032: Bip01 L Finger2Nub
+    400034: Bip01 L Finger3
+    400036: Bip01 L Finger31
+    400038: Bip01 L Finger32
+    400040: Bip01 L Finger3Nub
+    400042: Bip01 L Finger4
+    400044: Bip01 L Finger41
+    400046: Bip01 L Finger42
+    400048: Bip01 L Finger4Nub
+    400050: Bip01 L Foot
+    400052: Bip01 L Forearm
+    400054: Bip01 L ForeTwist
+    400056: Bip01 L ForeTwist1
+    400058: Bip01 L Hand
+    400060: Bip01 L Thigh
+    400062: Bip01 L Toe0
+    400064: Bip01 L Toe0Nub
+    400066: Bip01 L UpperArm
+    400068: Bip01 Neck
+    400070: Bip01 Pelvis
+    400072: Bip01 R Calf
+    400074: Bip01 R Clavicle
+    400076: Bip01 R Finger0
+    400078: Bip01 R Finger01
+    400080: Bip01 R Finger02
+    400082: Bip01 R Finger0Nub
+    400084: Bip01 R Finger1
+    400086: Bip01 R Finger11
+    400088: Bip01 R Finger12
+    400090: Bip01 R Finger1Nub
+    400092: Bip01 R Finger2
+    400094: Bip01 R Finger21
+    400096: Bip01 R Finger22
+    400098: Bip01 R Finger2Nub
+    400100: Bip01 R Finger3
+    400102: Bip01 R Finger31
+    400104: Bip01 R Finger32
+    400106: Bip01 R Finger3Nub
+    400108: Bip01 R Finger4
+    400110: Bip01 R Finger41
+    400112: Bip01 R Finger42
+    400114: Bip01 R Finger4Nub
+    400116: Bip01 R Foot
+    400118: Bip01 R Forearm
+    400120: Bip01 R ForeTwist
+    400122: Bip01 R ForeTwist1
+    400124: Bip01 R Hand
+    400126: Bip01 R Thigh
+    400128: Bip01 R Toe0
+    400130: Bip01 R Toe0Nub
+    400132: Bip01 R UpperArm
+    400134: Bip01 Spine
+    400136: Bip01 Spine1
+    400138: Bip01 Spine2
+    400140: Bone001
+    400142: Bone002
+    400144: Bone005
+    400146: Bone006
+    400148: Bone_AC_L1
+    400150: Bone_AC_L2
+    400152: Bone_AC_L3
+    400154: Bone_AC_L4
+    400156: Bone_AC_L5
+    400158: Bone_AC_L6
+    400160: Bone_AC_R1
+    400162: Bone_AC_R2
+    400164: Bone_AC_R3
+    400166: Bone_AC_R4
+    400168: Bone_AC_R5
+    400170: Bone_AC_R6
+    400172: Bone_C_L1
+    400174: Bone_C_L2
+    400176: Bone_C_L3
+    400178: Bone_C_L4
+    400180: Bone_C_L5
+    400182: Bone_C_L6
+    400184: Bone_C_R1
+    400186: Bone_C_R2
+    400188: Bone_C_R3
+    400190: Bone_C_R4
+    400192: Bone_C_R5
+    400194: Bone_C_R6
+    400196: Bone_hair_L1
+    400198: Bone_hair_L2
+    400200: Bone_hair_L3
+    400202: Bone_hair_L4
+    400204: Bone_hair_L5
+    400206: Bone_hair_L6
+    400208: Bone_hair_R1
+    400210: Bone_hair_R2
+    400212: Bone_hair_R3
+    400214: Bone_hair_R4
+    400216: Bone_hair_R5
+    400218: Bone_hair_R6
+    400220: Bone_kal
+    400222: Bone_kal2
+    400224: Bone_kalzip
+    400226: Bone_mouth_C
+    400228: Bone_mouth_L
+    400230: Bone_mouth_R
+    400232: Particle View 01
+    400234: Particle View 02
+    400236: Particle View 02 1
+    400238: Particle View 03
+    400240: Particle View 04
+    400242: Particle View 05
+    400244: Particle View 06
+    400246: PCW_Back_Booster_01
+    400248: PCW_Cord_01
+    400250: PCW_Eyes_01
+    400252: PCW_Hair_01
+    400254: PCW_Nude_Body_01
+    400256: PCW_Prop_01
+    400258: //RootNode
+    400260: PCW_Sheath_01
+    400262: PCW_Shoes_01
+    400264: PCW_Skirt_01
+    400266: PCW_Up_Cloth_01
+    400268: Root
+    400270: zip_01
+    400272: zip_02
+    400274: zip_03
+    2100000: PCW_Mat_01
+    4300000: PCW_Sheath_01
+    4300002: PCW_Cord_01
+    4300004: PCW_Back_Booster_01
+    4300006: PCW_Nude_Body_01
+    4300008: PCW_Hair_01
+    4300010: PCW_Up_Cloth_01
+    4300012: PCW_Eyes_01
+    4300014: PCW_Prop_01
+    4300016: PCW_Shoes_01
+    4300018: PCW_Skirt_01
+    9500000: //RootNode
+    13700000: PCW_Back_Booster_01
+    13700002: PCW_Cord_01
+    13700004: PCW_Eyes_01
+    13700006: PCW_Hair_01
+    13700008: PCW_Nude_Body_01
+    13700010: PCW_Prop_01
+    13700012: PCW_Sheath_01
+    13700014: PCW_Shoes_01
+    13700016: PCW_Skirt_01
+    13700018: PCW_Up_Cloth_01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

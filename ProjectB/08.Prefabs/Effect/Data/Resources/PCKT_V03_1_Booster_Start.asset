@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ccdbb49c3ea4cf40a8514d50eeb00f8, type: 3}
+  m_Name: PCKT_V03_1_Booster_Start
+  m_EditorClassIdentifier: 
+  createdObject: {fileID: 358257994761435615, guid: 281e13e0872d2e14caeb3b1cda7afb57,
+    type: 3}
+  isSetCreatorParent: 0
+  isRelativeOffset: 0
+  isLocalPosition: 0
+  positionOffset: {x: 0, y: 0, z: 0}
+  isfirstPositionToTarget: 1
+  isFollowTargetPosition: 0
+  isLocalRotation: 0
+  rotationOffset: {x: 0, y: 0, z: 0}
+  isfirstRotationToTarget: 1
+  isFollowTargetRotation: 1

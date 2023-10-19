@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7565ebba958d8ea4a9e513fc48c9fcd3, type: 3}
+  m_Name: Boss_Sector1
+  m_EditorClassIdentifier: 
+  stageTypeNum: 2
+  environmentPrefab: {fileID: 417620320609903093, guid: a8d690461018f7a48b640f02e538a2f9, type: 3}
+  lightingSetting:
+    skyBox: {fileID: 2100000, guid: bc4df10a84d425e42b49e29d1f760c61, type: 2}
+    environmentLighting:
+      source: 1
+      intensityMultiplie: 1
+      ambientColor: {r: 1, g: 0.73892534, b: 0.6839622, a: 1}
+    isFog: 0
+    fogMode: 3
+    fogColor: {r: 0.48269844, g: 0.49056602, b: 0.37255248, a: 1}
+    fogDensity: 0.008
+  soundData: {fileID: 11400000, guid: 259a83778ecd60d4b89caac39d6f4634, type: 2}
+  stageEnemyDatas:
+  - enemyPrefab: {fileID: 2136345459685644940, guid: 405a535b08f503e4a974b296cacbb0e0, type: 3}
+    createCount: 5
+  - enemyPrefab: {fileID: 2053383040515792732, guid: daf184f0c3a9c55499ac262c7e16c0a4, type: 3}
+    createCount: 5
+  stageEnemyDatasTotalMonsterCnt: 0500000005000000
+  stageMiddleBossDatas: []
+  stageFinalBossDatas:
+  - enemyPrefab: {fileID: 1277413597807470, guid: ce07720fde3c46849a69dbb584a4d8f3, type: 3}
+    createCount: 1
+  stageAdjustmentRatio: 0.1

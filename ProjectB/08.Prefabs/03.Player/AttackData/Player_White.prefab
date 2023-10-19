@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4102670338251668873
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4102670338251668874}
+  - component: {fileID: 4102670338251668875}
+  m_Layer: 8
+  m_Name: Player_PCK_V03_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4102670338251668874
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4102670338251668873}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4102670338251668875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4102670338251668873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f52e970b0fadec4ea05cf75a0bab8e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  base_attack_combo_01: {fileID: 11400000, guid: 82810c2349183ab40a37fa23c1aa6ff3,
+    type: 2}
+  dash_attack_a: {fileID: 11400000, guid: a42ebe514727c1342999c07cc7b29ffe, type: 2}
+  dash_attack_b: {fileID: 11400000, guid: 22a3b687b6753434aa494e7272bee155, type: 2}
+  attack_a_01: {fileID: 11400000, guid: 1e6430eb7ee3eb94ab03a29c277e890a, type: 2}
+  attack_a_02: {fileID: 11400000, guid: 066bc6f957ab9b8499e618df9ba57589, type: 2}
+  attack_a_03: {fileID: 11400000, guid: 7659c275e76f1b049b19426322d6215d, type: 2}
+  attack_a_04: {fileID: 11400000, guid: 7a37ab2ed6989244dbea92e48f37c0f0, type: 2}
+  attack_a_01_click_b: {fileID: 11400000, guid: fa2993b319d48a8439d73b4699b6ffce,
+    type: 2}
+  attack_a_02_click_b: {fileID: 11400000, guid: d95c33a0114728f489b90aaf35d98dfd,
+    type: 2}
+  attack_a_03_click_b: {fileID: 11400000, guid: 52443f3ab104dc5429f3fe08c4c5a5f7,
+    type: 2}
+  attack_b_01: {fileID: 11400000, guid: 314c86440c55c9046ab3f2ac7477b612, type: 2}
+  attack_b_02: {fileID: 11400000, guid: 401713b3877fe4449b931eab78cbcd5f, type: 2}
+  attack_b_03: {fileID: 11400000, guid: 7bd513e26c0287846bb34ef42985542d, type: 2}
+  skill_01: {fileID: 11400000, guid: b1053335c2178424ca4d94c99b563d88, type: 2}
+  skill_02: {fileID: 11400000, guid: d44a3b6aaebb1f345b6005197e5a1c77, type: 2}
+  skill_03: {fileID: 11400000, guid: 8bad74beac3e4664e80759a09ebdb994, type: 2}
+  skill_04: {fileID: 11400000, guid: e5ad0cb96383459458d668c2e79a3523, type: 2}

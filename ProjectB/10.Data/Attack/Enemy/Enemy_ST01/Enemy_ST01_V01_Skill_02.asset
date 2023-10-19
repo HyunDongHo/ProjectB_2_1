@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced539de500f4174884d6f79db5a74ec, type: 3}
+  m_Name: Enemy_ST01_V01_Skill_02
+  m_EditorClassIdentifier: 
+  clip: {fileID: 1827226128182048838, guid: bb1d61b867fa7f147a81feee3fc08d68, type: 3}
+  paramterRef: {fileID: 11400000, guid: 06ae3325601094e4b8eed3dfb4def1bc, type: 2}
+  attackEvents:
+  - eventName: "\uACF5\uACA9"
+    isOpen: 1
+    eventFrameSettings:
+    - isShowMinMaxFrame: 0
+      minFrame: 30
+      maxFrame: 30
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 32
+      maxFrame: 32
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 34
+      maxFrame: 34
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 36
+      maxFrame: 36
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 38
+      maxFrame: 38
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 40
+      maxFrame: 40
+      eventMethods: []
+  - eventName: "\uB17C\uC2A4\uD0D1"
+    isOpen: 1
+    eventFrameSettings:
+    - isShowMinMaxFrame: 1
+      minFrame: 0
+      maxFrame: 11
+      eventMethods:
+      - selectedIndex: 2
+        callMethod: SetNonstopAttack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 1
+      minFrame: 12
+      maxFrame: 52
+      eventMethods:
+      - selectedIndex: 2
+        callMethod: SetNonstopAttack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 1
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+  - eventName: "\uD30C\uD2F0\uD074"
+    isOpen: 1
+    eventFrameSettings:
+    - isShowMinMaxFrame: 0
+      minFrame: 27
+      maxFrame: 27
+      eventMethods:
+      - selectedIndex: 3
+        callMethod: CREATE_LASER
+        eventFrameParameter:
+          objectValue: {fileID: 11400000, guid: f299a34a11a73d6478f9fa31201f70c1, type: 2}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 

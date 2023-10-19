@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af7bfb7da97d074ca30cacaa479b174, type: 3}
+  m_Name: Main_Quest_37
+  m_EditorClassIdentifier: 
+  questSubject: 0
+  saveData:
+    questName: Main_Quest_1
+    state: 1
+    progressValue: 0
+  progressValueTarget: 
+  progressValueMax: 10
+  title: "\uC5F0\uD569\uAD70 \uC124\uBE44 \uBB3C\uC790 \uC218\uAE09"
+  contents: "\uC9C4\uC555\uD558\uC2ED\uC2DC\uC624."
+  progressStage: C_Sector_Inside_01
+  nextQuestName: Main_Quest_38
+  rewardDataSettings:
+  - rewardItemData: {fileID: 11400000, guid: 0ede799a52ab4bf4f95899de98bf68db, type: 2}
+    minAmount:
+      currentCryptoKey: 1832512989
+      hiddenValue: 1832512988
+      inited: 1
+      fakeValue: 1
+      fakeValueActive: 1
+    maxAmount:
+      currentCryptoKey: 1938097001
+      hiddenValue: 1938097000
+      inited: 1
+      fakeValue: 1
+      fakeValueActive: 1
+  - rewardItemData: {fileID: 11400000, guid: 02438a8265af24a40b0d0c1bb0bd1da2, type: 2}
+    minAmount:
+      currentCryptoKey: 2113732587
+      hiddenValue: 2113732597
+      inited: 1
+      fakeValue: 30
+      fakeValueActive: 1
+    maxAmount:
+      currentCryptoKey: 1541726055
+      hiddenValue: 1541726073
+      inited: 1
+      fakeValue: 30
+      fakeValueActive: 1
+  - rewardItemData: {fileID: 11400000, guid: f0f55dc264518a641be0487240817174, type: 2}
+    minAmount:
+      currentCryptoKey: 2113732587
+      hiddenValue: 2113732569
+      inited: 1
+      fakeValue: 50
+      fakeValueActive: 1
+    maxAmount:
+      currentCryptoKey: 1541726055
+      hiddenValue: 1541726037
+      inited: 1
+      fakeValue: 50
+      fakeValueActive: 1

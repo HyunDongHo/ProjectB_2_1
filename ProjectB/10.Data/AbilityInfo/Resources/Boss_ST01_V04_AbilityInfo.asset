@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a0faf2d8d844d4f9b7c350f7b014ed, type: 3}
+  m_Name: Boss_ST01_V04_AbilityInfo
+  m_EditorClassIdentifier: 
+  maxHp: 56000
+  maxExp: 1000
+  damageRatio: 1
+  attackSpeedRatio: 1
+  criticalRatio: 2.1
+  criticalPercentage: 24
+  dodgePercentage: 20
+  defence: 0
+  chanceToHit: 0
+  stunRatio: 0
+  attackMinDamage: 1100
+  attackMaxDamage: 1300
+  rewardMin: 1
+  rewardMax: 4
+  coreAmount: 250
+  expAmount: 2500
+  goldAmount: 25000

@@ -1,0 +1,355 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced539de500f4174884d6f79db5a74ec, type: 3}
+  m_Name: Boss_ST01_Attack_02
+  m_EditorClassIdentifier: 
+  clip: {fileID: 7400000, guid: 9c47823f3e178ba4496a458e1cf4c4c5, type: 2}
+  paramterRef: {fileID: 11400000, guid: 06ae3325601094e4b8eed3dfb4def1bc, type: 2}
+  attackEvents:
+  - eventName: "\uACF5\uACA9"
+    isOpen: 1
+    eventFrameSettings:
+    - isShowMinMaxFrame: 0
+      minFrame: 46
+      maxFrame: 46
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 48
+      maxFrame: 48
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 50
+      maxFrame: 50
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 52
+      maxFrame: 52
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 54
+      maxFrame: 54
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 56
+      maxFrame: 56
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 58
+      maxFrame: 58
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 60
+      maxFrame: 60
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 62
+      maxFrame: 62
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 64
+      maxFrame: 64
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+    - isShowMinMaxFrame: 0
+      minFrame: 66
+      maxFrame: 66
+      eventMethods:
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 1
+          stringValue: 
+      - selectedIndex: 0
+        callMethod: Attack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 2
+          stringValue: 
+  - eventName: "\uB17C\uC2A4\uD0D1"
+    isOpen: 1
+    eventFrameSettings:
+    - isShowMinMaxFrame: 1
+      minFrame: 0
+      maxFrame: 80
+      eventMethods:
+      - selectedIndex: 2
+        callMethod: SetNonstopAttack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 1
+          floatValue: 0
+          intValue: 0
+          stringValue: 
+    - isShowMinMaxFrame: 1
+      minFrame: 81
+      maxFrame: 90
+      eventMethods:
+      - selectedIndex: 2
+        callMethod: SetNonstopAttack
+        eventFrameParameter:
+          objectValue: {fileID: 0}
+          boolValue: 0
+          floatValue: 0
+          intValue: 0
+          stringValue: 

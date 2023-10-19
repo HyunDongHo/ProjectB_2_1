@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a4e7de07774b64439392ae144fae0aa, type: 3}
+  m_Name: PlayerArcher_AbilityInfo
+  m_EditorClassIdentifier: 
+  maxHp: 2000
+  maxExp: 159140
+  damageRatio: 2.794
+  attackSpeedRatio: 1
+  moveSpeedRatio: 1
+  criticalRatio: 2.2
+  criticalPercentage: 9.2
+  dodgePercentage: 4.2
+  defence: 0
+  chanceToHit: 135.99991
+  stunRatio: 0
+  maxSp: 985
+  spRecovery: 15
+  spRecoveryTime: 5
+  spAttackRecoverAmount: 10
+  spManualReduceAmount: 5
+  spAutoReduceAmount: 10
+  spDrainRatioPerHit: 0
+  hpRecovery: 15
+  hpRecoveryTime: 5
+  hpDrainRatioPerHit: 0
+  goldDropBonusRatio: 1
+  expBonusRatio: 1
+  skillDatas:
+  - skillDamageRatio: 0
+    skillCoolTime: 6
+    skillSpConsum: 14
+  - skillDamageRatio: 0
+    skillCoolTime: 8
+    skillSpConsum: 17
+  - skillDamageRatio: 0
+    skillCoolTime: 10
+    skillSpConsum: 25
+  - skillDamageRatio: 0
+    skillCoolTime: 12
+    skillSpConsum: 102
+  skillCoolDecreaseRatio: 1
