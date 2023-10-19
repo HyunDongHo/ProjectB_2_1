@@ -24,4 +24,4 @@
 
 # 영상 및 기술서 
 - 영상 : 
-- 기술서 링크 : https://docs.google.com/document/d/1BRdBsRUfVMmj8cXkAv-RGcTnIELQ00aaSpYb9RVAhow/edit
+- 기술서 링크 : https://docs.google.com/document/d/1BRdBsRUfVMmj8cXkAv-RGcTnIELQ00aaSpYb9RVAhow/edit 
