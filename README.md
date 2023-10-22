@@ -30,6 +30,8 @@
   - 스킬, 스테이지 이동, 퀘스트, 미션, 광고 버프 시스템 개발 
   - DoTween을 사용한 UI 애니메이션 구현  
 
-# 영상 및 기술서 
-- 영상 : https://sassy-athlete-7a6.notion.site/2022-4858ea27e0314e8b8d708de1b6a486aa?pvs=4
-- 기술서 링크 : https://docs.google.com/document/d/1BRdBsRUfVMmj8cXkAv-RGcTnIELQ00aaSpYb9RVAhow/edit 
+# 영상 및 멘토링 내용
+- 영상 및 멘토링 내용 노션 링크 : https://sassy-athlete-7a6.notion.site/2022-4858ea27e0314e8b8d708de1b6a486aa?pvs=4
+
+# 회고록
+- 이 프로젝트를 하면서 느낀점은 많은 UI 컨텐츠를 만들 수 있었
